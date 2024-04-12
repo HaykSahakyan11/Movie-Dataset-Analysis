@@ -15,7 +15,7 @@ This project is an analysis of a movie dataset using Python and SQLite. The data
 This project requires Python 3.8 or later. Clone the repository and install the necessary packages:
 
 ```bash
-git clone https://github.com/***/movie_dataset_analysis.git
+git clone https://github.com/HaykSahakyan11/Movie-Dataset-Analysis.git
 cd movie_dataset_analysis
 pip install -r requirements.txt
 ```
